@@ -24,4 +24,7 @@ Awesome paper list with code about locomotion and whole-body-control
 - [arXiv 2023.09](https://arxiv.org/abs/2309.09969): Prompt a Robot to Walk with Large Language Models (CDC 2024). [Website](https://prompt2walk.github.io/), [Code](https://github.com/HybridRobotics/prompt2walk),
 - [arXiv 2021.09](https://arxiv.org/abs/2109.11978): Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning (CoRL 2022). [Website](https://leggedrobotics.github.io/legged_gym/), [Code](https://github.com/leggedrobotics/legged_gym),
 
-## Whole Body Control
+## Motion Generation (Only Open-Sourse)
+
+- [CVPR 2022](https://ericguo5513.github.io/text-to-motion/): Generating Diverse and Natural 3D Human Motions from Text (CVPR 2022). [Code](https://github.com/EricGuo5513/text-to-motion)
+- [arXiv 2022.04](https://arxiv.org/abs/2204.14109): TEMOS: Generating diverse human motions from textual descriptions (ECCV 2022). [Code](https://github.com/Mathux/TEMOS),
