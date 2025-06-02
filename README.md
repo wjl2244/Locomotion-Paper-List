@@ -3,7 +3,7 @@ Awesome paper list with code about locomotion and whole-body-control
 
 - [Bipedal](#Bipedal)
 - [Quadrupedal](#Quadrupedal)
-- [Motion Generation](#Motion-Generation-(Only-Open-Sourse))
+- [Motion Generation](#Motion-Generation)
 
 ## Bipedal
 - [arXiv 2025.05](https://arxiv.org/abs/2505.18780): One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion. [Website](https://dreampolicy.github.io/),
