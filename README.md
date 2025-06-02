@@ -1,6 +1,9 @@
 # Locomotion-Paper-List
 Awesome paper list with code about locomotion and whole-body-control
 
+- [Bipedal](#Bipedal)
+- [Quadrupedal](#Quadrupedal)
+- [Motion Generation](#Motion-Generation-(Only-Open-Sourse))
 
 ## Bipedal
 - [arXiv 2025.05](https://arxiv.org/abs/2505.18780): One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion. [Website](https://dreampolicy.github.io/),
@@ -14,7 +17,7 @@ Awesome paper list with code about locomotion and whole-body-control
 - [arXiv 2023.03](https://arxiv.org/abs/2303.03381): Real-World Humanoid Locomotion with Reinforcement Learning. [Website](https://learning-humanoid-locomotion.github.io/),
 - [arXiv 2023.02](https://arxiv.org/abs/2302.09450): Robust and Versatile Bipedal Jumping Control through Reinforcement Learning. [YouTube](https://www.youtube.com/watch?v=aAPSZ2QFB-E),
 
-## Quadrupedal.
+## Quadrupedal
 
 - [arXiv 2025.03](https://arxiv.org/abs/2503.22942): Adaptive Interactive Navigation of Quadruped Robots using Large Language Models. [YouTube](https://www.youtube.com/watch?v=W5ttPnSap2g),
 - [arXiv 2025.02](https://arxiv.org/abs/2502.15043): **DDAT**: Diffusion Policies Enforcing Dynamically Admissible Robot Trajectories (RSS 2025). [Website](https://iconlab.negarmehr.com/DDAT/), [Code](https://github.com/labicon/DDAT),
