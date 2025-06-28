@@ -6,6 +6,7 @@ Awesome paper list with code about locomotion and whole-body-control
 - [Motion Generation](#Motion-Generation)
 
 ## Bipedal
+- [arXiv 2025.06](https://arxiv.org/abs/2506.12851): **KungfuBot**: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills. [Code](https://github.com/TeleHuman/PBHC), [Website](https://kungfu-bot.github.io/),
 - [arXiv 2025.05](https://arxiv.org/abs/2505.18780): One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion. [Website](https://dreampolicy.github.io/),
 - [arXiv 2025.04](https://arxiv.org/abs/2504.14305): Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning. [Website](https://almi-humanoid.github.io/), [Code](https://drive.google.com/file/d/12hK8wajdeDG3wN0_WWCt0NY0N9p1HVlA/view?usp=sharing),
 - [arXiv 2025.03](https://arxiv.org/abs/2503.09015): **GMP**: Natural Humanoid Robot Locomotion with Generative Motion Prior. [Website](https://sites.google.com/view/humanoid-gmp),
@@ -19,7 +20,7 @@ Awesome paper list with code about locomotion and whole-body-control
 
 ## Quadrupedal
 
-- [arXiv 2025.06](https://arxiv.org/abs/2506.16986): Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration (IROS 2025). [Youtube](https://www.youtube.com/watch?v=3ysgbN6Ca8A),
+- [arXiv 2025.06](https://arxiv.org/abs/2506.16986): Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration (IROS 2025). [YouTube](https://www.youtube.com/watch?v=3ysgbN6Ca8A),
 - [arXiv 2025.05](https://arxiv.org/abs/2505.16084): **Motion Priors Reimagined**: Adapting Flat-Terrain Skills for Complex Quadruped Mobility. [Website](https://anymalprior.github.io/),
 - [arXiv 2025.03](https://arxiv.org/abs/2503.22942): Adaptive Interactive Navigation of Quadruped Robots using Large Language Models. [YouTube](https://www.youtube.com/watch?v=W5ttPnSap2g),
 - [arXiv 2025.02](https://arxiv.org/abs/2502.15043): **DDAT**: Diffusion Policies Enforcing Dynamically Admissible Robot Trajectories (RSS 2025). [Website](https://iconlab.negarmehr.com/DDAT/), [Code](https://github.com/labicon/DDAT),
