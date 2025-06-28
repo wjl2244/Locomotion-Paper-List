@@ -19,6 +19,7 @@ Awesome paper list with code about locomotion and whole-body-control
 
 ## Quadrupedal
 
+- [arXiv 2025.06](https://arxiv.org/abs/2506.16986): Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration (IROS 2025). [Youtube](https://www.youtube.com/watch?v=3ysgbN6Ca8A),
 - [arXiv 2025.05](https://arxiv.org/abs/2505.16084): **Motion Priors Reimagined**: Adapting Flat-Terrain Skills for Complex Quadruped Mobility. [Website](https://anymalprior.github.io/),
 - [arXiv 2025.03](https://arxiv.org/abs/2503.22942): Adaptive Interactive Navigation of Quadruped Robots using Large Language Models. [YouTube](https://www.youtube.com/watch?v=W5ttPnSap2g),
 - [arXiv 2025.02](https://arxiv.org/abs/2502.15043): **DDAT**: Diffusion Policies Enforcing Dynamically Admissible Robot Trajectories (RSS 2025). [Website](https://iconlab.negarmehr.com/DDAT/), [Code](https://github.com/labicon/DDAT),
