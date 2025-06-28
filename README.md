@@ -7,11 +7,11 @@ Awesome paper list with code about locomotion and whole-body-control
 
 ## Bipedal
 - [arXiv 2025.06](https://arxiv.org/abs/2506.12851): **KungfuBot**: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills. [Code](https://github.com/TeleHuman/PBHC), [Website](https://kungfu-bot.github.io/),
-- [arXiv 2025.05](https://arxiv.org/abs/2505.22974): Learning coordinated badminton skills for legged manipulators. [YouTube](https://www.youtube.com/watch?v=zYuxOVQXVt8),
+- [arXiv 2025.05](https://arxiv.org/abs/2505.22974): Learning coordinated badminton skills for legged manipulators (Science Robotics). [YouTube](https://www.youtube.com/watch?v=zYuxOVQXVt8),
 - [arXiv 2025.05](https://arxiv.org/abs/2505.18780): One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion. [Website](https://dreampolicy.github.io/),
 - [arXiv 2025.04](https://arxiv.org/abs/2504.14305): Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning. [Website](https://almi-humanoid.github.io/), [Code](https://drive.google.com/file/d/12hK8wajdeDG3wN0_WWCt0NY0N9p1HVlA/view?usp=sharing),
 - [arXiv 2025.03](https://arxiv.org/abs/2503.09015): **GMP**: Natural Humanoid Robot Locomotion with Generative Motion Prior. [Website](https://sites.google.com/view/humanoid-gmp),
-- [arXiv 2025.02](https://arxiv.org/abs/2502.01143), **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [Website](https://agile.human2humanoid.com/), [Code](https://github.com/LeCAR-Lab/ASAP),
+- [arXiv 2025.02](https://arxiv.org/abs/2502.01143), **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills (RSS 2025), [Website](https://agile.human2humanoid.com/), [Code](https://github.com/LeCAR-Lab/ASAP),
 - [arXiv 2025.02](https://arxiv.org/abs/2502.03206), **HugWBC**: A Unified and General Humanoid Whole-Body Controller. [Website](https://hugwbc.github.io/),
 - [arXiv 2024.08](https://arxiv.org/abs/2408.14472): Advancing humanoid locomotion: Mastering challenging terrains with denoising world model learning (RSS 2024),
 - [arXiv 2024.02](https://arxiv.org/abs/2402.19469): Humanoid Locomotion as Next Token Prediction (NeurIPS 2024). [Website](https://humanoid-next-token-prediction.github.io/),
